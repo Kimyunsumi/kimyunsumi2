@@ -1,0 +1,145 @@
+.all{
+  background-color: #222020;
+}
+
+h1{
+  float:center;
+}
+.container{
+  background-image: url(../images/hhh-1.png)
+}
+ .container{
+  padding: 30px;
+  text-align: left;
+  position: relative;
+
+
+} 
+.container>.nick>a{
+  position: absolute;
+  right: 200px;
+  top:5px;
+  padding:0px,15px;
+  margin:0px,15px;
+  box-shadow:inset 0 0 50px rgb(128, 33, 253)
+}
+.container>.nick2>a{
+  position: absolute;
+  right: 100px;
+  top:5px;
+  padding:0px,15px;
+  margin:0px,15px;
+  box-shadow:inset 0 0 50px rgb(128, 33, 253)
+}
+.container h1 {
+    font-size: 50px;
+    color:white
+}
+.nav1{
+overflow:hidden;
+background-color: #333;
+height:35px;
+}
+.nav1 a {
+  float:left;
+  display:block;
+  color: #f2f2f2;
+  text-align:center;
+  padding:14px 16px;
+  text-decoration: none;
+}
+.nav1>a:hover{
+  backgound-color:#ddd;
+  color:orangered;
+}
+.row{
+  clear:both;
+}
+.ar1{
+  background-color: ;
+}
+.ft1{
+  background: #454545
+
+}
+.ft1 h3{
+  color:white
+}
+.ft1 h4{
+  color:white
+}
+.search{
+  line-height: 35px;
+  padding:0 15px;
+  float:right;
+}
+.Choingay{
+  width: 25%;
+  padding:5px 10px 10px;
+  padding-top:5px;
+  margin:auto;
+  float:left;
+  background-color:#333;
+}
+.Choingay>a:hover{
+  color:orangered;
+}
+aside{
+  float:right;
+  width: 25%;
+  top:5px;
+}
+article{
+  clear:both;
+  background:#333;
+  padding:0px 30px 30px;
+}
+.diendan{
+  color:white;
+  margin:14px 16px;
+  padding:auto;
+  border-radius: 30px;
+  border:5px solid #333;
+  background-color: #333;
+  text-align: center;
+  font-size:40px;
+}
+.diendan1{
+  color:white;
+  margin:14px 16px;
+  padding:auto;
+  border-radius: 30px;
+  border:5px solid #333;
+  background-color: #333;
+  font-size:30px;
+}
+.diendan1>a:hover{
+  color:orangered;
+}
+.hio{
+  background-color:#222020;
+}
+article>.phim1{
+  width:25%;
+  padding:auto;
+  float:left;
+  background-color:#333;
+  line-height: 1;
+  clear:none;
+}
+.fz{
+  background-color:#222020;
+  color:white;
+}
+.indexcopy1{
+  color:white;
+}
+.indexcopy1bao{
+  background-color:#222020;
+}
+.phim1:hover{
+background-color:orangered;
+}
+.faq{
+  background-color: white;
+}
